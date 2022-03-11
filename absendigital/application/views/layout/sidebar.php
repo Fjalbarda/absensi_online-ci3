@@ -17,10 +17,10 @@
                         <div class="sb-sidenav-menu-heading">Admin</div>
                         <a class="nav-link" href="<?= base_url('datapegawai'); ?>">
                             <div class="sb-nav-link-icon"><span class="fas fa-users"></span></div>
-                            Data Pegawai
+                            Data Asisten
                         </a><a class="nav-link" href="<?= base_url('absensi'); ?>">
                             <div class="sb-nav-link-icon"><span class="fas fa-user-check"></span></div>
-                            Absensi Pegawai
+                            Absensi Asisten
                         </a>
                         </a><a class="nav-link" href="<?= base_url('settingapp'); ?>">
                             <div class="sb-nav-link-icon"><span class="fas fa-cog"></span></div>
@@ -44,7 +44,7 @@
                         <div class="sb-sidenav-menu-heading">Asisten</div>
                         </a><a class="nav-link" href="<?= base_url('absensi'); ?>">
                             <div class="sb-nav-link-icon"><span class="fas fa-user-check"></span></div>
-                            Absensi Pegawai
+                            Absensi Asisten
                         </a>
                     </div>
                 </div>
